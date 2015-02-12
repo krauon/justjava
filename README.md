@@ -1,0 +1,2 @@
+# justjava
+simple java project
